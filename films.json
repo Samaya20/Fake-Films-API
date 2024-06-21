@@ -1,0 +1,74 @@
+{
+    "cinemas": [
+        {
+            "name": "Dreamland Cinema",
+            "address": "1234 Elm Street, Springfield",
+            "rating": 4.5,
+            "feedback": [
+                {
+                    "writer": "Jane Doe",
+                    "description": "Great atmosphere and comfortable seats!"
+                },
+                {
+                    "writer": "John Smith",
+                    "description": "Friendly staff and clean facilities."
+                }
+            ],
+            "movies": [
+                {
+                    "name": "Inception",
+                    "genre": "Science Fiction",
+                    "director": "Christopher Nolan",
+                    "imdb": 8.8,
+                    "price": 12.99,
+                    "description": "A thief who steals corporate secrets through the use of dream-sharing technology.",
+                    "image": "https://www.movieposters.com/cdn/shop/files/inception.mpw.123395_9e0000d1-bc7f-400a-b488-15fa9e60a10c_480x.progressive.jpg?v=1708527589"
+                },
+                {
+                    "name": "The Godfather",
+                    "genre": "Crime",
+                    "director": "Francis Ford Coppola",
+                    "imdb": 9.2,
+                    "price": 10.99,
+                    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+                    "image": "https://www.movieposters.com/cdn/shop/products/godfather.132843.mp_480x.progressive.jpg?v=1654286052"
+                }
+            ]
+        },
+        {
+            "name": "Galaxy Theaters",
+            "address": "5678 Oak Avenue, Metropolis",
+            "rating": 4.7,
+            "feedback": [
+                {
+                    "writer": "Alice Johnson",
+                    "description": "Fantastic sound system and screen quality!"
+                },
+                {
+                    "writer": "Bob Brown",
+                    "description": "Best popcorn in town!"
+                }
+            ],
+            "movies": [
+                {
+                    "name": "The Matrix",
+                    "genre": "Action",
+                    "director": "Lana Wachowski, Lilly Wachowski",
+                    "imdb": 8.7,
+                    "price": 11.99,
+                    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+                    "image": "https://www.movieposters.com/cdn/shop/files/Matrix.mpw.102176_bb2f6cc5-4a16-4512-881b-f855ead3c8ec_480x.progressive.jpg?v=1708703624"
+                },
+                {
+                    "name": "Forrest Gump",
+                    "genre": "Drama",
+                    "director": "Robert Zemeckis",
+                    "imdb": 8.8,
+                    "price": 9.99,
+                    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+                    "image": "https://www.movieposters.com/cdn/shop/products/forrest-gump---24x36_480x.progressive.jpg?v=1645558337"
+                }
+            ]
+        }
+    ]
+}
