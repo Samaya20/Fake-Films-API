@@ -1,21 +1,25 @@
 {
     "cinemas": [
         {
+            "id" : 1,
             "name": "Dreamland Cinema",
             "address": "1234 Elm Street, Springfield",
             "rating": 4.5,
             "feedback": [
                 {
+                    "id": 1,
                     "writer": "Jane Doe",
                     "description": "Great atmosphere and comfortable seats!"
                 },
                 {
+                    "id": 2,
                     "writer": "John Smith",
                     "description": "Friendly staff and clean facilities."
                 }
             ],
             "movies": [
                 {
+                    "id": 1,
                     "name": "Inception",
                     "genre": "Science Fiction",
                     "director": "Christopher Nolan",
@@ -25,6 +29,7 @@
                     "image": "https://www.movieposters.com/cdn/shop/files/inception.mpw.123395_9e0000d1-bc7f-400a-b488-15fa9e60a10c_480x.progressive.jpg?v=1708527589"
                 },
                 {
+                    "id": 2,
                     "name": "The Godfather",
                     "genre": "Crime",
                     "director": "Francis Ford Coppola",
@@ -36,21 +41,25 @@
             ]
         },
         {
+            "id": 2,
             "name": "Galaxy Theaters",
             "address": "5678 Oak Avenue, Metropolis",
             "rating": 4.7,
             "feedback": [
                 {
+                    "id": 1,
                     "writer": "Alice Johnson",
                     "description": "Fantastic sound system and screen quality!"
                 },
                 {
+                    "id": 2,
                     "writer": "Bob Brown",
                     "description": "Best popcorn in town!"
                 }
             ],
             "movies": [
                 {
+                    "id": 1,
                     "name": "The Matrix",
                     "genre": "Action",
                     "director": "Lana Wachowski, Lilly Wachowski",
@@ -60,6 +69,7 @@
                     "image": "https://www.movieposters.com/cdn/shop/files/Matrix.mpw.102176_bb2f6cc5-4a16-4512-881b-f855ead3c8ec_480x.progressive.jpg?v=1708703624"
                 },
                 {
+                    "id": 2,
                     "name": "Forrest Gump",
                     "genre": "Drama",
                     "director": "Robert Zemeckis",
