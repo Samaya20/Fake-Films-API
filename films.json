@@ -2,7 +2,7 @@
     "cinemas": [
         {
             "id": 1,
-            "name": "Dreamland Cinema",
+            "name": "Cinema Plus",
             "address": "1234 Elm Street, Springfield",
             "rating": 4.5,
             "feedback": [
@@ -102,7 +102,7 @@
         },
         {
             "id": 2,
-            "name": "Galaxy Theaters",
+            "name": "Park Cinema",
             "address": "5678 Oak Avenue, Metropolis",
             "rating": 4.7,
             "feedback": [
