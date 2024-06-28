@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Cinema Plus",
-            "address": "1234 Elm Street, Springfield",
+            "address": "53, Ganjlik Mall, 3-cü mərtəbə",
             "rating": 4.5,
             "feedback": [
                 {
@@ -103,7 +103,7 @@
         {
             "id": 2,
             "name": "Park Cinema",
-            "address": "5678 Oak Avenue, Metropolis",
+            "address": "44, Metro Park AVM, 6-cı mərtəbə",
             "rating": 4.7,
             "feedback": [
                 {
